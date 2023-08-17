@@ -251,3 +251,6 @@ footer a {
 	color: #3c97bf;
 	text-decoration: none;
 }
+@media screen and (min-width: 370px){
+	input,button{
+		width:150px;}
