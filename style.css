@@ -242,27 +242,19 @@ section .Forgot,
 
 footer {
   background-color: #eee;
-  font-size: 17px;
+  
   bottom: 0;
   position: fixed;
   left: 0;
   right: 0;
   text-align: center;
-height: 5rem;
+  height: 5rem;
 }
 
-footer p {
-	color: #ddd;
+footer .copyright p {
+ font-size: 25px;
+ color: #ddd;
   margin: 10px 0;
-}
-
-footer i {
-  color: red;
-}
-
-footer a {
-  color: #3c97bf;
-  text-decoration: none;
 }
 
 /*MEDIA QUERIES*/
