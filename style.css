@@ -252,9 +252,9 @@ footer {
 }
 
 footer .copyright p {
- font-size: 35px;
+ font-size: 24px;
  color: #000;
-  margin: 10px 0;
+  margin: 15px 0;
 }
 
 /*MEDIA QUERIES*/
