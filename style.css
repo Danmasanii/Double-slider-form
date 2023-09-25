@@ -240,7 +240,7 @@ section .Forgot,
   width: 40px;
 }
 
-footer {
+.footer {
   background-color: #eee;
   
   bottom: 0;
@@ -251,7 +251,7 @@ footer {
   height: 5rem;
 }
 
-footer .copyright p {
+.footer .copyright p {
  font-size: 24px;
  color: #000;
   margin: 15px 0;
